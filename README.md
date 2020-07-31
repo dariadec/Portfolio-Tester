@@ -38,6 +38,8 @@ __________________
 
 ## Webs
 - https://www.w3schools.com
+- http://getistqb.com/docs
+- https://www.toniebug.pl
 __________________
 
 # My projects
