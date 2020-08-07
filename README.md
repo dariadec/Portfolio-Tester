@@ -20,7 +20,7 @@ __________________
 - Git
 __________________
 # Certificates
-- ISTQB - soon :)
+- ISTQB - CTFL; id: 74838; exam date: 05/07/2020; 
 #
 #
 #
