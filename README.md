@@ -43,4 +43,4 @@ __________________
 __________________
 
 # My projects
-soon
+- przykładowe [przypadki testowe dla strony lubimyczytac.pl] (https://drive.google.com/file/d/1NL2enwhddSVhMwqZzsqQ9EYtUsB3ZbwL/view?usp=sharing)
