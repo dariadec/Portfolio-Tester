@@ -23,7 +23,6 @@ __________________
 - ISTQB - CTFL; id: 74838; exam date: 05/07/2020; 
 #
 #
-#
 __________________
 # I'm lerning from:
 ## Courses
@@ -43,4 +42,10 @@ __________________
 __________________
 
 # My projects
-- przykładowe [przypadki testowe dla strony lubimyczytac.pl] (https://drive.google.com/file/d/1NL2enwhddSVhMwqZzsqQ9EYtUsB3ZbwL/view?usp=sharing)
+- [test cases for the site lubimyczytac.pl](https://drive.google.com/file/d/1NL2enwhddSVhMwqZzsqQ9EYtUsB3ZbwL/view?usp=sharing).
+- [test report for the rejestration on site lubimyczytac.pl](https://drive.google.com/file/d/1NLAkNOwWsTPSgoD8CJqD7V-B3FWC-rz3/view?usp=sharing).
+
+- [test report for the site pysznezcydrem.pl](https://drive.google.com/file/d/13DgS_AGkTKV1y3sdYMBDs_zK7tre_1_N/view?usp=sharing).
+
+- [test cases for some functionalities of the site justjoin.it](https://drive.google.com/file/d/1GgWETCtI7Db2U9x6qK5EZkV0PYy1waG-/view?usp=sharing).
+- [test report for some functionalities of the site justjoin.it](https://drive.google.com/file/d/13XSWgNe5grX3u6-N7YFBKINrgdyMMHeJ/view?usp=sharing).
