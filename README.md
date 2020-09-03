@@ -18,6 +18,7 @@ __________________
 - UML
 - SQL 
 - Git
+- Linux
 __________________
 # Certificates
 - ISTQB - CTFL; id: 74838; exam date: 05/07/2020; 
@@ -26,9 +27,10 @@ __________________
 __________________
 # I'm lerning from:
 ## Courses
-- Python od podstaw - CODE:ME
-- Podstawy testowania w praktyce - CODE:ME
-- Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org
+- Python od podstaw - CODE:ME - basics of programming in Python
+- Podstawy testowania w praktyce - CODE:ME - basics of softoware testing and testing tools
+- Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL
+- Nokia Academy XIII, Testing --> during
 
 ## Books
 - Pro Git, everything you need to know about git, 2nd edition - Scott Chacon, Ben Straub
