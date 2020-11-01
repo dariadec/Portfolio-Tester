@@ -30,12 +30,13 @@ __________________
 - Python od podstaw - CODE:ME - basics of programming in Python
 - Podstawy testowania w praktyce - CODE:ME - basics of softoware testing and testing tools
 - Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL
-- Nokia Academy XIII, Testing --> during
+- Nokia Academy XIII, Testing - basics of telecom, networking, linux, python, ISTQB, measurements
 
 ## Books
 - Pro Git, everything you need to know about git, 2nd edition - Scott Chacon, Ben Straub
 - SWEBOK v3.0, Guide to the software Engineering Body of Knowledge - Pierre Bourque, Richard E. Fairley
 - PMBOK Guide 5th edition - Project Management Institute
+- Leliwa Signaling - lte/eps technology
 
 ## Webs
 - https://www.w3schools.com
