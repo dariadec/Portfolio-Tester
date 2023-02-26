@@ -2,7 +2,8 @@
 __________________
 # About me
 
-### Hello, my name is Daria Dec. I'm engineer of Biotechnology but when I graduated I realized that it isn't my way. I became interested in bioinformatics which led me to start learning programming in Python. Finnaly I have taken interest in software development and software testing as well. I found a job as a QA Analyst and I build up my skills in practice. I love learning new things. I am particularly passionate about backend testing and learning about web application security.
+### Hello, my name is Daria Dec. I'm engineer of Biotechnology but when I graduated I realized that it isn't my way. I became interested in bioinformatics which led me to start learning programming in Python. 
+### Finnaly I have taken interest in software development and software testing as well. I found a job as a QA Analyst and I build up my skills in practice. I love learning new things. I am particularly passionate about backend testing and learning about web application security.
 __________________
 # Tools
 - Jira, Trello, Azure DevOps
