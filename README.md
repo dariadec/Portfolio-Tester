@@ -2,19 +2,21 @@
 __________________
 # About me
 
-### Hello, my name is Daria Dec. I'm fresh engineer of Biotechnology but when I graduated I realized that it isn't my way. I became interested in bioinformatics which led me to start learning programming in Python. Recently I have taken interest in software development and software testing as well. My goal is to gain new technical skills, which will help me with improvement my testing and programming knowledge.
+### Hello, my name is Daria Dec. I'm engineer of Biotechnology but when I graduated I realized that it isn't my way. I became interested in bioinformatics which led me to start learning programming in Python. Finnaly I have taken interest in software development and software testing as well. I found a job as a QA Analyst and I build up my skills in practice. I love learning new things. I am particularly passionate about backend testing and learning about web application security.
 __________________
 # Tools
-- Jira, Trello
-- Selenium IDE
-- Draw.io
+- Jira, Trello, Azure DevOps
+- Draw.io, MIRO
+- Postman
+- HeidiSQL
 __________________
 # Tech skills
 - Testing software
 - Creating test case
-- Reporting bugs
+- Creating raports and documentations
+- Reporting bugs with an indication of possible reasons
 - DevTools
-- Python 
+- Postman
 - UML
 - SQL 
 - Git
@@ -31,24 +33,12 @@ __________________
 - Podstawy testowania w praktyce - CODE:ME - basics of softoware testing and testing tools
 - Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL
 - Nokia Academy XIII, Testing - basics of telecom, networking, linux, python, ISTQB, measurements
+- Szkoła Testowania Backendu - Bartek Kita - basics of backend testing and Postman
+- 
 
 ## Books
 - Pro Git, everything you need to know about git, 2nd edition - Scott Chacon, Ben Straub
 - SWEBOK v3.0, Guide to the software Engineering Body of Knowledge - Pierre Bourque, Richard E. Fairley
 - PMBOK Guide 5th edition - Project Management Institute
 - Leliwa Signaling - lte/eps technology
-
-## Webs
-- https://www.w3schools.com
-- http://getistqb.com/docs
-- https://www.toniebug.pl
-__________________
-
-# My projects
-- [test cases for the site lubimyczytac.pl](https://drive.google.com/file/d/1NL2enwhddSVhMwqZzsqQ9EYtUsB3ZbwL/view?usp=sharing).
-- [test report for the rejestration on site lubimyczytac.pl](https://drive.google.com/file/d/1NLAkNOwWsTPSgoD8CJqD7V-B3FWC-rz3/view?usp=sharing).
-
-- [test report for the site pysznezcydrem.pl](https://drive.google.com/file/d/13DgS_AGkTKV1y3sdYMBDs_zK7tre_1_N/view?usp=sharing).
-
-- [test cases for some functionalities of the site justjoin.it](https://drive.google.com/file/d/1GgWETCtI7Db2U9x6qK5EZkV0PYy1waG-/view?usp=sharing).
-- [test report for some functionalities of the site justjoin.it](https://drive.google.com/file/d/13XSWgNe5grX3u6-N7YFBKINrgdyMMHeJ/view?usp=sharing).
+- Bezpieczeństwo aplikacji webowych - Securitum
